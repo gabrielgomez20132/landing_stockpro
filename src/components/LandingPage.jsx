@@ -7,6 +7,7 @@ import DemoCTA from "./DemoCTA";
 import Testimonials from "./Testimonials";
 import FAQ from "./FAQ";
 import Footer from "./Footer";
+import Plans from "./Plans";
 
 export default function LandingPage() {
   return (
@@ -15,6 +16,7 @@ export default function LandingPage() {
       <Hero />
       <Features />
       <Benefits />
+      <Plans />
       <DemoCTA />
       <Testimonials />
       <FAQ />
