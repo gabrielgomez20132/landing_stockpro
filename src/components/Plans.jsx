@@ -10,6 +10,7 @@ const plans = [
       "Gestión de stock y ventas",
       "Reportes estándar",
       "Soporte por email",
+      "Facturación o ticket no valido",
     ],
     color: "border-blue-500",
     btn: "Contratar Básico",
