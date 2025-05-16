@@ -37,6 +37,24 @@ const features = [
       "Interfaz disponible en varios idiomas. Acceso seguro con autenticación y logs.",
     icon: "🌍",
   },
+  {
+    title: "Cotizaciones",
+    description:
+      "Módulo de cotizaciones que te permite generar, gestionar y enviar presupuestos personalizados de manera eficiente.",
+    icon: "📝",
+  },
+  {
+    title: "Gestión de Clientes",
+    description: "Módulo de administración de clientes que te permite almacenar y gestionar los datos de contacto, así como consultar el historial de ventas asociadas a cada cliente para un mejor seguimiento y atención personalizada.",
+    icon: "👥",
+  },
+  {
+    title: "Gestión de Productos",
+    description: "Módulo para el registro y administración de productos, donde podrás gestionar detalles como costo, precio, stock mínimo y recibir alertas de cantidad. Además, permite la clasificación de productos por categorías y marcas para una mejor organización.",
+    icon: "📦",
+  }
+
+
 ];
 
 export default function Features() {
