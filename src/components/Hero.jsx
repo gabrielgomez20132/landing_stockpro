@@ -15,7 +15,7 @@ export default function Hero() {
         rel="noopener noreferrer"
         className="inline-block px-8 py-3 bg-green-500 text-white rounded-xl font-semibold shadow hover:bg-green-600 transition"
       >
-        Solicitar demo por WhatsApp
+        PEDI TU DEMO POR WHATSAPP YA MISMO
       </a>
       <div className="mt-12 flex justify-center">
         <img
