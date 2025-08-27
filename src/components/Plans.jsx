@@ -3,7 +3,7 @@ import React from "react";
 const plans = [
   {
     name: "Plan Básico",
-    price: "$19.999/mes",
+    price: "$24.999/mes",
     features: [
       "Hasta 1 sucursal.",
       "Usuarios ilimitados.",
@@ -17,7 +17,7 @@ const plans = [
   },
   {
     name: "Plan Plus",
-    price: "$25.000/mes",
+    price: "$29.999/mes",
     features: [
       "Hasta 5 sucursales.",
       "Usuarios ilimitados.",
