@@ -10,7 +10,7 @@ export default function Hero() {
         El sistema integral para controlar stock, ventas, compras y reportes desde cualquier lugar.
       </p>
       <a
-        href="https://wa.me/5491112345678?text=Hola%2C%20quiero%20una%20demo%20de%20StockPro"
+        href="https://wa.me/5491112345678?text=Hola%2C%20quiero%20una%20demo%20de%StockProFlex"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block px-8 py-3 bg-green-500 text-white rounded-xl font-semibold shadow hover:bg-green-600 transition"
@@ -20,7 +20,7 @@ export default function Hero() {
       <div className="mt-12 flex justify-center">
         <img
           src={require("../assets/dashboard-ai.png")}
-          alt="Dashboard de StockPro"
+          alt="Dashboard de StockProFlex"
           className="rounded-2xl shadow-lg max-w-full w-[600px] border border-blue-100"
           loading="lazy"
         />

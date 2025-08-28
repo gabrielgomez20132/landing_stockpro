@@ -5,7 +5,7 @@ export default function Header() {
       <nav className="max-w-6xl mx-auto flex justify-between items-center py-4 px-6">
         <div className="flex items-center gap-2 text-xl font-bold text-blue-700">
           <span role="img" aria-label="logo">📦</span>
-          StockPro
+          StockProFlex
         </div>
         <a
           href="https://wa.me/5491112345678?text=Hola%2C%20quiero%20una%20demo%20de%20StockPro"

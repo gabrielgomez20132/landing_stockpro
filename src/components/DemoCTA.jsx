@@ -5,7 +5,7 @@ export default function DemoCTA() {
     <section id="demo" className="max-w-3xl mx-auto text-center py-20 px-4">
       <h2 className="text-3xl font-bold mb-6 text-blue-700">Solicitá una demo personalizada</h2>
       <p className="mb-8 text-lg">
-        Comprobá cómo StockPro puede transformar la gestión de tu negocio.
+        Comprobá cómo StockProFlex puede transformar la gestión de tu negocio.
       </p>
       <a
         href="https://wa.me/5491112345678?text=Hola%2C%20quiero%20una%20demo%20de%20StockPro"
