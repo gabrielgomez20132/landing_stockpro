@@ -18,6 +18,12 @@ export default function Benefits() {
           <li className="bg-white rounded-lg shadow px-6 py-4">
             <strong>Escalable</strong> para un solo local o una cadena completa.
           </li>
+          <li className="bg-white rounded-lg shadow px-6 py-4">
+            <strong>Adaptabilidad</strong> se adapta a cualquier rubro.
+          </li>
+          <li className="bg-white rounded-lg shadow px-6 py-4">
+            <strong>Flexible</strong> se puede agregar nuevos módulos desarrollados.
+          </li>
         </ul>
       </div>
     </section>
