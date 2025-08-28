@@ -9,7 +9,7 @@ const plans = [
       "Usuarios ilimitados.",
       "Gestión de stock y ventas.",
       "Reportes estándar.",
-      "Soporte via Whatsapp.",
+      "Soporte via WhatsApp.",
       "Facturación o ticket no valido.",
     ],
     color: "border-blue-500",

@@ -7,7 +7,7 @@ export default function Testimonials() {
         <h2 className="text-2xl font-bold text-blue-700 mb-8">Lo que dicen nuestros clientes</h2>
         <div className="flex flex-col md:flex-row gap-8 justify-center">
           <div className="bg-blue-50 rounded-xl p-6 shadow flex-1">
-            <p className="mb-4">"StockPro nos simplificó la gestión de sucursales y el control de stock. ¡Muy recomendable!"</p>
+            <p className="mb-4">"StockProFlex nos simplificó la gestión de sucursales y el control de stock. ¡Muy recomendable!"</p>
             <div className="font-bold">Martina R., Gerenta de Tienda</div>
           </div>
           <div className="bg-blue-50 rounded-xl p-6 shadow flex-1">
