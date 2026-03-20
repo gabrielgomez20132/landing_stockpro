@@ -8,7 +8,7 @@ export default function DemoCTA() {
         Comprobá cómo StockProFlex puede transformar la gestión de tu negocio.
       </p>
       <a
-        href="https://wa.me/5491112345678?text=Hola%2C%20quiero%20una%20demo%20de%20StockPro"
+        href="https://wa.me/5493834269222?text=Hola%2C%20quiero%20una%20demo%20de%20StockPro"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block px-8 py-4 bg-green-500 text-white rounded-xl font-semibold shadow hover:bg-green-600 transition"
