@@ -59,7 +59,7 @@ export default function Plans() {
               </ul>
             </div>
             <a
-              href="https://wa.me/5491112345678?text=Hola%2C%20quiero%20contratar%20el%20plan%20de%20StockPro"
+              href="https://wa.me/5493834269222?text=Hola%2C%20quiero%20contratar%20el%20plan%20de%20StockPro"
               target="_blank"
               rel="noopener noreferrer"
               className={`block w-full text-center px-6 py-3 rounded-xl font-semibold shadow transition mt-auto ${

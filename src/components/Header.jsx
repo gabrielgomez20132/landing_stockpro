@@ -8,7 +8,7 @@ export default function Header() {
           StockProFlex
         </div>
         <a
-          href="https://wa.me/5491112345678?text=Hola%2C%20quiero%20una%20demo%20de%20StockPro"
+          href="https://wa.me/5493834269222?text=Hola%2C%20quiero%20una%20demo%20de%20StockPro"
           target="_blank"
           rel="noopener noreferrer"
           className="px-4 py-2 bg-green-500 text-white rounded-lg shadow hover:bg-green-600 transition font-medium flex items-center gap-2"

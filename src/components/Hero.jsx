@@ -10,7 +10,7 @@ export default function Hero() {
         El sistema integral para controlar stock, ventas, compras y reportes desde cualquier lugar.
       </p>
       <a
-        href="https://wa.me/5491112345678?text=Hola%2C%20quiero%20una%20demo%20de%StockProFlex"
+        href="https://wa.me/5493834269222?text=Hola%2C%20quiero%20una%20demo%20de%StockProFlex"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block px-8 py-3 bg-green-500 text-white rounded-xl font-semibold shadow hover:bg-green-600 transition"
